@@ -1,0 +1,7 @@
+4250
+EternalGoal:Temple attendance|go to the temple|20
+SimpleGoal:trash|take out the trash|5|True
+ChecklistGoal:excercise|do 5 min excercise|5|1|20|10
+SimpleGoal:homework|finish homework|100|True
+SimpleGoal:test|t|1500|True
+ChecklistGoal:testing|sdfa|500|3|3|1000
